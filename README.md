@@ -1,8 +1,7 @@
 # Deets:
-
-Network: Polygon
-DAO URL: https://client.aragon.org/#/investish/
-Vault Address: 0xedf412545a9609a8ea102e97a8e6b99cbeae3f99
+- Network: Polygon
+- DAO URL: https://client.aragon.org/#/investish/
+- Vault Address: 0xedf412545a9609a8ea102e97a8e6b99cbeae3f99
 
 
 # Joining the DAO
